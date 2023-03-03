@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class A {
+public class B {
 	
 	public static int solve(int []nums) {
 		Arrays.sort(nums);
