@@ -1,6 +1,5 @@
 #pragma GCC Optimize(2)
 #include <iostream>
-#include <bits/stdc++.h>
 #include <cstring>
 #include <algorithm>
 #define x first
